@@ -1,2 +1,4 @@
 # GHMC-Vechicle-routing
 The Design Challenge at nVisionX’26, organized in collaboration with the Greater Hyderabad Municipal Corporation (GHMC), invites innovators, designers, and technologists to reimagine urban waste management using technology, data, and system design. Participants will address a real civic problem by developing an optimized, data-driven routing 
+
+<img width="1920" height="989" alt="image" src="https://github.com/user-attachments/assets/c6089528-963c-4cf2-bee2-9b69148afb6d" />
