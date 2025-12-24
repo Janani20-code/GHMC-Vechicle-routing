@@ -46,11 +46,6 @@ Smart, data-driven routing model for optimizing solid waste collection from Garb
 ### Waste Collection Optimization Dashboard
 <img width="5896" height="3535" alt="image" src="https://github.com/user-attachments/assets/bd000dfc-9c4b-4866-9541-cc6138b11685" />
 
-
-### Schedule Density Heatmap
-
-<img width="3395" height="2362" alt="image" src="https://github.com/user-attachments/assets/9801beb8-2335-4d4b-b6e4-e6db36624aee" />
-
 --- 
 ## Individual Cluster Route Map & Route Efficiency 
 <img width="4465" height="1763" alt="cluster_Auto Nagar_routes" src="https://github.com/user-attachments/assets/dd6d796a-ca7c-4b03-a600-deec303a9cc6" />
