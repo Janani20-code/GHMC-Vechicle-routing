@@ -1,0 +1,159 @@
+============================================================
+SCHEDULING EFFICIENCY METRICS
+============================================================
+
+OVERALL PERFORMANCE:
+------------------------------------------------------------
+ï Vehicles scheduled: 108
+ï Trips scheduled: 108
+ï Waste to collect: 666.23 tonnes
+ï Total distance: 879.84 km
+ï Total scheduled hours: 368.84
+ï Average vehicle utilization: 42.7%
+
+CLUSTER-WISE PERFORMANCE:
+------------------------------------------------------------
+
+Ziyaguda:
+  ï Vehicles: 9
+  ï Trips: 9
+  ï Waste: 128.63 tonnes
+  ï Distance: 90.80 km
+  ï Hours: 60.26
+  ï Utilization: 83.7%
+
+IBT:
+  ï Vehicles: 8
+  ï Trips: 8
+  ï Waste: 108.70 tonnes
+  ï Distance: 64.39 km
+  ï Hours: 50.81
+  ï Utilization: 79.4%
+
+Jubilee Hills Road No 51:
+  ï Vehicles: 10
+  ï Trips: 10
+  ï Waste: 73.33 tonnes
+  ï Distance: 80.92 km
+  ï Hours: 38.20
+  ï Utilization: 47.7%
+
+Chacha Nehuru Park:
+  ï Vehicles: 8
+  ï Trips: 8
+  ï Waste: 62.52 tonnes
+  ï Distance: 60.58 km
+  ï Hours: 32.17
+  ï Utilization: 50.3%
+
+Jalagam Vengal Rao Park:
+  ï Vehicles: 7
+  ï Trips: 7
+  ï Waste: 50.33 tonnes
+  ï Distance: 45.08 km
+  ï Hours: 25.58
+  ï Utilization: 45.7%
+
+Singareni Colony:
+  ï Vehicles: 9
+  ï Trips: 9
+  ï Waste: 41.43 tonnes
+  ï Distance: 45.35 km
+  ï Hours: 23.43
+  ï Utilization: 32.5%
+
+Mir Alam Tank:
+  ï Vehicles: 9
+  ï Trips: 9
+  ï Waste: 33.61 tonnes
+  ï Distance: 48.99 km
+  ï Hours: 21.88
+  ï Utilization: 30.4%
+
+Auto Nagar:
+  ï Vehicles: 9
+  ï Trips: 9
+  ï Waste: 33.64 tonnes
+  ï Distance: 76.61 km
+  ï Hours: 22.32
+  ï Utilization: 31.0%
+
+Kattedan:
+  ï Vehicles: 7
+  ï Trips: 7
+  ï Waste: 25.51 tonnes
+  ï Distance: 85.21 km
+  ï Hours: 17.77
+  ï Utilization: 31.7%
+
+Bandlaguda:
+  ï Vehicles: 6
+  ï Trips: 6
+  ï Waste: 21.41 tonnes
+  ï Distance: 53.78 km
+  ï Hours: 14.63
+  ï Utilization: 30.5%
+
+Nagole:
+  ï Vehicles: 5
+  ï Trips: 5
+  ï Waste: 18.07 tonnes
+  ï Distance: 26.44 km
+  ï Hours: 11.64
+  ï Utilization: 29.1%
+
+Sanath Nagar:
+  ï Vehicles: 4
+  ï Trips: 4
+  ï Waste: 15.35 tonnes
+  ï Distance: 31.62 km
+  ï Hours: 10.72
+  ï Utilization: 33.5%
+
+Devender Nagar:
+  ï Vehicles: 4
+  ï Trips: 4
+  ï Waste: 13.71 tonnes
+  ï Distance: 27.96 km
+  ï Hours: 9.27
+  ï Utilization: 29.0%
+
+Saket:
+  ï Vehicles: 3
+  ï Trips: 3
+  ï Waste: 10.84 tonnes
+  ï Distance: 45.86 km
+  ï Hours: 7.61
+  ï Utilization: 31.7%
+
+Peoples Plaza:
+  ï Vehicles: 3
+  ï Trips: 3
+  ï Waste: 10.76 tonnes
+  ï Distance: 17.99 km
+  ï Hours: 7.69
+  ï Utilization: 32.1%
+
+Hasthinapuram:
+  ï Vehicles: 3
+  ï Trips: 3
+  ï Waste: 9.16 tonnes
+  ï Distance: 41.43 km
+  ï Hours: 7.13
+  ï Utilization: 29.7%
+
+Lalapet Flyover:
+  ï Vehicles: 2
+  ï Trips: 2
+  ï Waste: 4.83 tonnes
+  ï Distance: 11.69 km
+  ï Hours: 3.56
+  ï Utilization: 22.2%
+
+Mallapur:
+  ï Vehicles: 2
+  ï Trips: 2
+  ï Waste: 4.42 tonnes
+  ï Distance: 25.14 km
+  ï Hours: 4.17
+  ï Utilization: 26.1%
