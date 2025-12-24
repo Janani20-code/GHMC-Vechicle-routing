@@ -1,0 +1,33 @@
+============================================================
+MODULE 5 - LOADED DATA SUMMARY
+============================================================
+
+1. GVP DATA
+   • Total GVPs: 1577
+   • Total waste: 672.43 tonnes
+   • Clusters represented: 18
+
+2. CLUSTER DATA
+   • Saket: 23 GVPs, 10.84 tonnes
+   • Mallapur: 11 GVPs, 4.42 tonnes
+   • Lalapet Flyover: 10 GVPs, 4.83 tonnes
+   • Hasthinapuram: 21 GVPs, 9.16 tonnes
+   • Nagole: 44 GVPs, 19.17 tonnes
+   • Kattedan: 59 GVPs, 26.27 tonnes
+   • Devender Nagar: 32 GVPs, 13.71 tonnes
+   • Auto Nagar: 80 GVPs, 33.94 tonnes
+   • Singareni Colony: 97 GVPs, 41.65 tonnes
+   • IBT: 262 GVPs, 110.75 tonnes
+   • Jubilee Hills Road No 51: 178 GVPs, 75.78 tonnes
+   • Bandlaguda: 50 GVPs, 21.41 tonnes
+   • Mir Alam Tank: 86 GVPs, 35.17 tonnes
+   • Ziyaguda: 294 GVPs, 125.26 tonnes
+   • Chacha Nehuru Park: 147 GVPs, 63.21 tonnes
+   • Sanath Nagar: 41 GVPs, 15.80 tonnes
+   • Peoples Plaza: 29 GVPs, 10.76 tonnes
+   • Jalagam Vengal Rao Park: 113 GVPs, 50.33 tonnes
+
+3. FLEET DATA
+   • Vehicle types: 3
+   • Total vehicles: 108
+   • Total capacity: 712.00 tonnes
