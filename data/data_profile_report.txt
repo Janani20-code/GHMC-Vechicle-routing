@@ -1,0 +1,261 @@
+================================================================================
+DATA PROFILE REPORT - Waste Management System
+Generated: 2025-12-21 10:43:28
+================================================================================
+
+📊 SYSTEM OVERVIEW
+================================================================================
+
+1. GVP Data (Waste Collection Points):
+   - Total locations: 1581
+   - Total waste per day: 1349.98 units
+
+2. Fleet Data:
+   - Total vehicles: 108
+   - Total capacity: 712.00 tonnes
+
+3. SCTP Data (Transfer Stations):
+   - Total stations: 18
+
+================================================================================
+📈 EFFICIENCY ANALYSIS
+================================================================================
+
+Waste Collection Requirements:
+  - Waste to collect daily: 1349.98 units
+  - Fleet daily capacity: 712.00 tonnes
+  - Required trips per day: 1.90
+  - Rounded up: 2.0 trips needed
+
+================================================================================
+DETAILED ANALYSIS: GVPs
+================================================================================
+
+======================================================================
+SHEET: GVPs
+======================================================================
+📊 Shape: 1581 rows × 5 columns
+
+📋 COLUMN DETAILS:
+----------------------------------------------------------------------
+
+  🔹 s_no:
+     Type: int64
+     Missing: 0 (0.0%)
+     Min: 1.000000
+     Max: 1629.000000
+     Mean: 824.060721
+     Std: 471.689200
+     Sample: [1, 2, 3]
+
+  🔹 location:
+     Type: object
+     Missing: 0 (0.0%)
+     Unique values: 1407
+     Top 5 values: {'Darga Point': 3, 'Balaji Nagar': 2, 'Modal Dairy': 2, 'Bodhki Bi Durga': 2, 'Oil Mill': 2}
+     Sample: ['Dammaiguda Petrol Bunk', 'Vampuguda Graveyard', 'Kandiguda Anganwadi']
+
+  🔹 longitude:
+     Type: float64
+     Missing: 0 (0.0%)
+     Min: 78.055084
+     Max: 78.620108
+     Mean: 78.466343
+     Std: 0.052094
+     Sample: [78.586182, 78.570939, 78.568335]
+
+  🔹 latitude:
+     Type: float64
+     Missing: 0 (0.0%)
+     Min: 17.177660
+     Max: 17.839230
+     Mean: 17.380687
+     Std: 0.039344
+     Sample: [17.501253, 17.50141, 17.499374]
+
+  🔹 waste_generation:
+     Type: float64
+     Missing: 0 (0.0%)
+     Min: 0.030000
+     Max: 1.660000
+     Mean: 0.853877
+     Std: 0.476385
+     Sample: [1.1, 0.56, 1.26]
+📍 COORDINATE ANALYSIS:
+   Total rows: 1581
+   Valid coordinates: 1581 (100.0%)
+   Missing coordinates: 0
+
+   Coordinate Ranges:
+     Latitude:  17.177660 to 17.839230
+     Longitude: 78.055084 to 78.620108
+
+   Hyderabad Range Check:
+     Within Hyderabad: 1581 (100.0%)
+     Outside Hyderabad: 0
+🗑️  WASTE GENERATION ANALYSIS:
+   Total rows with waste data: 1581
+   Total waste: 1349.98 units/day
+   Average waste per location: 0.85 units
+   Min waste: 0.03
+   Max waste: 1.66
+   Std deviation: 0.48
+
+   Percentile Distribution:
+     0th percentile: 0.03
+     25th percentile: 0.46
+     50th percentile: 0.86
+     75th percentile: 1.26
+     100th percentile: 1.66
+================================================================================
+DETAILED ANALYSIS: Fleet
+================================================================================
+
+======================================================================
+SHEET: Fleet
+======================================================================
+📊 Shape: 3 rows × 5 columns
+
+📋 COLUMN DETAILS:
+----------------------------------------------------------------------
+
+  🔹 s_no:
+     Type: int64
+     Missing: 0 (0.0%)
+     Min: 1.000000
+     Max: 3.000000
+     Mean: 2.000000
+     Std: 1.000000
+     Sample: [1, 2, 3]
+
+  🔹 vehicle_type:
+     Type: object
+     Missing: 0 (0.0%)
+     Unique values: 3
+     Sample values: ['Mini Tipper Low', 'Mini Tipper Medium', 'Mini Tipper High']
+     Sample: ['Mini Tipper Low', 'Mini Tipper Medium', 'Mini Tipper High']
+
+  🔹 gvw:
+     Type: int64
+     Missing: 0 (0.0%)
+     Min: 7.000000
+     Max: 28.000000
+     Mean: 15.333333
+     Std: 11.150486
+     Sample: [7, 11, 28]
+
+  🔹 capacity_tonnes:
+     Type: int64
+     Missing: 0 (0.0%)
+     Min: 4.000000
+     Max: 16.000000
+     Mean: 9.333333
+     Std: 6.110101
+     Sample: [4, 8, 16]
+
+  🔹 num_vehicles:
+     Type: int64
+     Missing: 0 (0.0%)
+     Min: 14.000000
+     Max: 66.000000
+     Mean: 36.000000
+     Std: 26.907248
+     Sample: [66, 28, 14]
+🚚 FLEET ANALYSIS:
+   Total vehicles: 108
+   Total capacity: 712.00 tonnes
+   Vehicle types: 3
+
+   Vehicle Type Details:
+     Mini Tipper Low:
+       Count: 66
+       Capacity each: 4 tonnes
+       Total capacity: 264.0 tonnes
+     Mini Tipper Medium:
+       Count: 28
+       Capacity each: 8 tonnes
+       Total capacity: 224.0 tonnes
+     Mini Tipper High:
+       Count: 14
+       Capacity each: 16 tonnes
+       Total capacity: 224.0 tonnes
+================================================================================
+DETAILED ANALYSIS: SCTPs
+================================================================================
+
+======================================================================
+SHEET: SCTPs
+======================================================================
+📊 Shape: 18 rows × 5 columns
+
+📋 COLUMN DETAILS:
+----------------------------------------------------------------------
+
+  🔹 s_no:
+     Type: int64
+     Missing: 0 (0.0%)
+     Min: 1.000000
+     Max: 18.000000
+     Mean: 9.500000
+     Std: 5.338539
+     Sample: [1, 2, 3]
+
+  🔹 transfer_station:
+     Type: object
+     Missing: 0 (0.0%)
+     Unique values: 18
+     Top 5 values: {'Nagole': 1, 'Devender Nagar': 1, 'Mallapur': 1, 'Saket': 1, 'Auto Nagar': 1}
+     Sample: ['Nagole', 'Devender Nagar', 'Mallapur']
+
+  🔹 Coordinates:
+     Type: object
+     Missing: 0 (0.0%)
+     Unique values: 18
+     Top 5 values: {' 17°23\'23.38"N, 78°33\'32.79"E': 1, ' 17°23\'11.62"N, 78°32\'49.63"E': 1, ' 17°26\'43.89"N, 78°34\'28.81"E': 1, ' 17°29\'43.13"N, 78°34\'47.31"E': 1, ' 17°20\'57.70"N, 78°34\'51.10"E': 1}
+     Sample: [' 17°23\'23.38"N, 78°33\'32.79"E', ' 17°23\'11.62"N, 78°32\'49.63"E', ' 17°26\'43.89"N, 78°34\'28.81"E']
+
+  🔹 latitude:
+     Type: float64
+     Missing: 0 (0.0%)
+     Min: 17.311792
+     Max: 17.495314
+     Mean: 17.389821
+     Std: 0.051900
+     Sample: [17.389828, 17.386561, 17.445525]
+
+  🔹 longitude:
+     Type: float64
+     Missing: 0 (0.0%)
+     Min: 78.399981
+     Max: 78.580861
+     Mean: 78.495375
+     Std: 0.058912
+     Sample: [78.559108, 78.547119, 78.574669]
+📍 COORDINATE ANALYSIS:
+   Total rows: 18
+   Valid coordinates: 18 (100.0%)
+   Missing coordinates: 0
+
+   Coordinate Ranges:
+     Latitude:  17.311792 to 17.495314
+     Longitude: 78.399981 to 78.580861
+
+   Hyderabad Range Check:
+     Within Hyderabad: 18 (100.0%)
+     Outside Hyderabad: 0
+================================================================================
+✅ DATA QUALITY SUMMARY
+================================================================================
+  • GVP Coordinate Completeness: 100.0%
+  • GVP Waste Data Completeness: 100.0%
+  • Fleet Data Completeness: 100.0%
+  • SCTP Coordinate Completeness: 100.0%
+
+================================================================================
+💡 RECOMMENDATIONS
+================================================================================
+  1. Consider balancing GVPs across SCTPs for efficient routing
+  2. Deploy appropriate vehicle types based on cluster waste volume
+  3. Optimize routes within each cluster to minimize travel distance
+  4. Monitor daily waste generation for dynamic routing adjustments
+  5. Consider adding more SCTPs in high-density waste areas
